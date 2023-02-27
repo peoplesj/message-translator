@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "jp-sandbox": {
+      "name": "jp-sandbox",
+      "app_id": "A04S74AJ9SL",
+      "team_id": "T03G69YQ8U9",
+      "IsDev": false
+    }
+  },
+  "default": "jp-sandbox"
+}
