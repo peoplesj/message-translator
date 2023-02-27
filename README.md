@@ -1,4 +1,4 @@
-# Deno Hello World Slack App
+# For demo purposes only
 
 This sample app demonstrates how to use a function, workflow, and trigger to
 send a greeting to channel.
@@ -37,10 +37,10 @@ Start by cloning this repository:
 
 ```zsh
 # Clone this project onto your machine
-$ slack create my-app -t slack-samples/deno-hello-world
+$ slack create message-translator -t peoplesj/message-translator
 
 # Change into this project directory
-$ cd my-app
+$ cd message-translator
 ```
 
 ## Create a Link Trigger
